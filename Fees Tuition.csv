@@ -1,18 +1,17 @@
-Item,Value
-international_application_fee ,120.00
-international_tuition_communications ,639.00
-tuition_communications ,297.00
-international_tuition_DSML ,1992.00
-tuition_DSML ,6600.00
-student_association_fee ,73.00
-student_service_fee ,101.00
-dental_insurance ,120.00
-health_insurance ,135.00
-international_health_coverage ,766.50
-technology_infraestructure_fee ,95.00
-wellness_fee ,22.00
-residence_applycation_fee ,50.00
-student_rental_residence ,3020.82
-administrative_fee ,40.00
-security_deposit ,350.00
-Total,14421.32
+Item,Value,Category
+international_application_fee ,120.00,Tuition
+international_tuition_communications ,639.00,Tuition
+tuition_communications ,297.00,Tuition
+international_tuition_DSML ,1992.00,Tuition
+tuition_DSML ,6600.00,Tuition
+student_association_fee ,73.00,Services
+student_service_fee ,101.00,Services
+dental_insurance ,120.00,Services
+health_insurance ,135.00,Services
+international_health_coverage ,766.50,Services
+technology_infraestructure_fee ,95.00,Services
+wellness_fee ,22.00,Services
+residence_applycation_fee ,50.00,Residence
+student_rental_residence ,3020.82,Residence
+administrative_fee ,40.00,Residence
+security_deposit ,350.00,Residence
